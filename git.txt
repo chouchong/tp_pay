@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/chouchong/tp_pay.git
+git push -u origin master
